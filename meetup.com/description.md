@@ -2,11 +2,9 @@
 
 ## Location
 
-GSG-Hof Schlesische Straße
-Gebäude 3, 4th floor
-Schlesische Straße 27
-10997 Berlin
+Mozilla Berlin, Building 3, 3rd floor, Schlesische Straße 27, 10997 Berlin
 
+If the door to the 3rd floor is closed, please enter through the reception area on the 4th floor.
 
 ## Date and Time
 
